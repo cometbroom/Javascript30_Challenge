@@ -1,3 +1,5 @@
 [submodule "challenges"]
 	path = challenges
-	url = https://github.com/wesbos/JavaScript30.git
+	url = https://github.com/wesbos/JavaScript30.
+	
+
